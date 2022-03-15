@@ -18,4 +18,6 @@ In 2018, the firm launched a new investment product, “Term Deposit”, which h
 The model identified potential top 1000 customers for the company and the final dataset is obtained in terms of decreasing Account Balance.
 
 # Dataset
-Obtained from a case study. Provided with the files.
+1. Historical_data- Dataset containing information about previous campaign subscription status.
+2. New_customer_list_data- Dataset on which prediction needs to be done.
+3. Data_Dictionary- Information about each feature.
