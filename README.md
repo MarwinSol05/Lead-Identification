@@ -1,6 +1,9 @@
 # Lead Identification
 Identify Potential Leads
 
+### For better visualisations, please use the following link:
+https://nbviewer.org/github/MarwinSol05/Lead-Identification/blob/main/Case%20Study.ipynb
+
 # Situation
 ABC is a financial institution based out of India. They offer a range of banking services like Savings accounts, Current accounts, Investment products, Credit products etc.
 
